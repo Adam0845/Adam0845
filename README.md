@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 - 🔭 I’m currently working on my school projects
 
-- 🌱 I’m currently learning **Javascrip & PHP**
+- 🌱 I’m currently learning **Javascript & PHP**
 
 <p align="left">
 </p>
